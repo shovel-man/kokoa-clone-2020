@@ -11,6 +11,7 @@
 .alt-header__title {
     font-size: 28px;
     font-weight: 600;
+    color: var(--white);
 }
 .alt-header__column:first-child {
     margin-right: auto;

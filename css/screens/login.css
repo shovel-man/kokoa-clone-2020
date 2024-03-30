@@ -10,16 +10,19 @@
     font-size: 25px;
     margin-bottom: 20px;
     font-weight: 600;
+    color: var(--white);
 }
 
 .welcome-header__text {
     width: 60%;
     opacity: 0.8;
+    color: var(--white);
 }
 #login-form {
     display: flex;
     flex-direction: column;
     margin: 0px 30px;
+    color: var(--white);
 }
 #login-form input {
     padding: 15px;
@@ -28,9 +31,11 @@
     border-bottom: 1px solid rgba(0,0,0,0.2);
     margin-bottom: 25px;
     transition: border-color 0.3s ease-in-out;
+    background-color: rgb(87, 94, 87);
+    border-radius: 20px;
 }
 #login-form input::placeholder {
-    color: rgba(0, 0, 0, 0.4);
+    color: var(--white);
     margin-bottom: 20px;
 }
 
