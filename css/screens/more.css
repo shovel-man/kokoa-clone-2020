@@ -25,3 +25,12 @@
     align-items: center;
     font-size: 30px;
 }
+.icon-row__icon span {
+    color: var(--white);
+}
+.more-suggestions__title {
+    color: var(--white);
+}
+.more-suggestions__icon-text {
+    color: var(--white);
+}

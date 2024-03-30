@@ -170,6 +170,9 @@
   .reply__column button:active {
     outline: none;
   }
+  .reply__column i {
+    color: var(--black);
+  }
   .reply__column button i {
     opacity: 1;
   }
