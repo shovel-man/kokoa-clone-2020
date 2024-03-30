@@ -27,14 +27,16 @@
     border-radius: 27px;
     margin-right: 20px;
 }
-.user-component_title {
+.user-component__title {
     font-weight: 600;
     font-size: 22px;
+    color: var(--white);
 }
 .user-component__subtitle {
     margin-top: 5px;
-    color: rgba(0,0,0,0.4);
+    /*color: rgba(0,0,0,0.4); */
     font-size: 17px;
+    color:var(--white);
 }
 .user-component__avatar--sm {
     width: 60px;
@@ -49,4 +51,8 @@
 .user-component__time {
     margin-bottom: 10px;
     display: block;
+    color: var(--white);
+}
+.user-component_text {
+    color:var(--white);
 }

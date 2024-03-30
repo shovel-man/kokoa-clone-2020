@@ -22,6 +22,10 @@
     display: flex;
     justify-content: space-between;
 }
+#friends-display-link, #friends-display-link i {
+    background-color: rgba(41, 41, 41, 0.531);
+    color: var(--white);
+}
 #splash-screen {
     background-color: var(--yellow);
     position: absolute;
@@ -44,4 +48,7 @@
         opacity: 0;
         visibility: hidden;
     }
+}
+.friends-screen__channel-header span {
+    color:var(--white);
 }

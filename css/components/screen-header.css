@@ -10,9 +10,11 @@
 .screen-header__title {
     font-size: 32px;
     font-weight: 600;
+    color: var(--white);
 }
 .header__icons span {
     margin-left: 25px;
+    color: white;
 }
 @keyframes rotateCog {
     from {
