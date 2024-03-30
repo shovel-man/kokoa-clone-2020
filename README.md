@@ -1,3 +1,4 @@
-# Kokoa Clone 2020 Upadte
+# Kokoa Clone 2020 Upadate
 
-CSS is worst markup lang I ever seen like before
+만들어씀.
+강의 따라해서
